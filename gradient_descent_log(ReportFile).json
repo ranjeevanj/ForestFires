@@ -1,0 +1,47 @@
+[
+    {
+        "learning_rate": 0.001,
+        "num_iterations": 100,
+        "mse": 2183.7059240485546
+    },
+    {
+        "learning_rate": 0.001,
+        "num_iterations": 500,
+        "mse": 2148.595132808166
+    },
+    {
+        "learning_rate": 0.001,
+        "num_iterations": 1000,
+        "mse": 2132.863302601268
+    },
+    {
+        "learning_rate": 0.01,
+        "num_iterations": 100,
+        "mse": 2132.985019624643
+    },
+    {
+        "learning_rate": 0.01,
+        "num_iterations": 500,
+        "mse": 2110.429183720604
+    },
+    {
+        "learning_rate": 0.01,
+        "num_iterations": 1000,
+        "mse": 2105.840088210353
+    },
+    {
+        "learning_rate": 0.1,
+        "num_iterations": 100,
+        "mse": 2105.870810238291
+    },
+    {
+        "learning_rate": 0.1,
+        "num_iterations": 500,
+        "mse": 2099.049299291217
+    },
+    {
+        "learning_rate": 0.1,
+        "num_iterations": 1000,
+        "mse": 2096.449509804474
+    }
+]
